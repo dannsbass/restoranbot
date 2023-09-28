@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f7a3a0372ddd4f7267fb3ce0416f1173",
+    "packages": [
+        {
+            "name": "dannsbass/bots",
+            "version": "v0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dannsbass/bots.git",
+                "reference": "6a5fc0020f2189313e020a79d2c27380e13ca664"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dannsbass/bots/zipball/6a5fc0020f2189313e020a79d2c27380e13ca664",
+                "reference": "6a5fc0020f2189313e020a79d2c27380e13ca664",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "Bot.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Danns Bass",
+                    "email": "dannsbass@gmail.com",
+                    "homepage": "https://github.com/dannsbass",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Simple Telegram Bot API library for PHP",
+            "homepage": "https://github.com/dannsbass/bots",
+            "keywords": [
+                "Telegram bot library",
+                "telegram",
+                "telegram bot",
+                "telegram bot api"
+            ],
+            "support": {
+                "issues": "https://github.com/dannsbass/bots/issues",
+                "source": "https://github.com/dannsbass/bots/tree/v0.0.1"
+            },
+            "time": "2023-09-12T07:40:27+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
